@@ -1,0 +1,1 @@
+data1 <- read.csv(url("http://stat.columbia.edu/~rachel/datasets/nyt1.csv"))
